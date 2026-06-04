@@ -23,5 +23,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: yulia7newton/node-web-app:latest
+          tags: yulia7/node-web-app:latest
 
